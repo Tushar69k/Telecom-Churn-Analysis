@@ -1,0 +1,59 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Telecom Churn Analytics &amp; Prediction Platform Banner</title>
+  <desc>Dark navy banner with gold title text reading Telecom Churn Analytics and Prediction Platform</desc>
+
+  <rect width="680" height="220" rx="12" fill="#0d1117"/>
+  <rect x="0" y="0" width="680" height="220" rx="12" fill="none" stroke="#c9a84c" stroke-width="0.5" opacity="0.4"/>
+
+  <line x1="40" y1="40" x2="40" y2="0" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+  <line x1="0" y1="40" x2="40" y2="40" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+  <rect x="44" y="4" width="6" height="6" rx="1.5" fill="#c9a84c" opacity="0.9"/>
+
+  <line x1="640" y1="40" x2="640" y2="0" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+  <line x1="680" y1="40" x2="640" y2="40" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+
+  <line x1="40" y1="180" x2="40" y2="220" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+  <line x1="0" y1="180" x2="40" y2="180" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+
+  <line x1="640" y1="180" x2="640" y2="220" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+  <line x1="680" y1="180" x2="640" y2="180" stroke="#c9a84c" stroke-width="1.5" opacity="0.7"/>
+
+  <line x1="0" y1="0" x2="680" y2="0" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="0" y1="44" x2="680" y2="44" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="0" y1="88" x2="680" y2="88" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="0" y1="132" x2="680" y2="132" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="0" y1="176" x2="680" y2="176" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="0" y1="220" x2="680" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+
+  <line x1="0" y1="0" x2="0" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="136" y1="0" x2="136" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="272" y1="0" x2="272" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="408" y1="0" x2="408" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="544" y1="0" x2="544" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+  <line x1="680" y1="0" x2="680" y2="220" stroke="#c9a84c" stroke-width="0.3" opacity="0.08"/>
+
+  <text x="56" y="32" font-family="monospace" font-size="11" font-weight="500" fill="#c9a84c" letter-spacing="3" opacity="0.85">◆  P L A T F O R M</text>
+  <rect x="52" y="40" width="3" height="100" fill="#c9a84c" opacity="0.8"/>
+
+  <text x="64" y="94" font-family="Arial Black, sans-serif" font-size="46" font-weight="900" fill="#c9a84c" letter-spacing="2">TELECOM CHURN</text>
+  <text x="64" y="130" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#e8e8e8" letter-spacing="6">ANALYTICS &amp; PREDICTION</text>
+
+  <text x="58" y="157" font-family="monospace" font-size="10" fill="#c9a84c" letter-spacing="2" opacity="0.75">END-TO-END BUSINESS INTELLIGENCE SOLUTION FOR TELECOM CUSTOMER RETENTION</text>
+
+  <g transform="translate(58, 168)">
+    <rect x="0" y="0" width="66" height="22" rx="11" fill="none" stroke="#c9a84c" stroke-width="0.8" opacity="0.7"/>
+    <text x="33" y="15" font-family="monospace" font-size="10" fill="#c9a84c" text-anchor="middle" opacity="0.9">Python</text>
+
+    <rect x="74" y="0" width="64" height="22" rx="11" fill="none" stroke="#c9a84c" stroke-width="0.8" opacity="0.7"/>
+    <text x="106" y="15" font-family="monospace" font-size="10" fill="#c9a84c" text-anchor="middle" opacity="0.9">Power BI</text>
+
+    <rect x="146" y="0" width="76" height="22" rx="11" fill="none" stroke="#c9a84c" stroke-width="0.8" opacity="0.7"/>
+    <text x="184" y="15" font-family="monospace" font-size="10" fill="#c9a84c" text-anchor="middle" opacity="0.9">SQL Server</text>
+
+    <rect x="230" y="0" width="78" height="22" rx="11" fill="none" stroke="#c9a84c" stroke-width="0.8" opacity="0.7"/>
+    <text x="269" y="15" font-family="monospace" font-size="10" fill="#c9a84c" text-anchor="middle" opacity="0.9">Scikit-Learn</text>
+
+    <rect x="316" y="0" width="96" height="22" rx="11" fill="none" stroke="#c9a84c" stroke-width="0.8" opacity="0.7"/>
+    <text x="364" y="15" font-family="monospace" font-size="10" fill="#c9a84c" text-anchor="middle" opacity="0.9">Random Forest</text>
+  </g>
+</svg>
